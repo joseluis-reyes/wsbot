@@ -1,0 +1,23 @@
+{
+  "name": "wspbot",
+  "version": "0.0.1",
+  "description": "Test bot for whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseluis-reyes/wsbot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot"
+  ],
+  "author": "José Luis Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseluis-reyes/wsbot/issues"
+  },
+  "homepage": "https://github.com/joseluis-reyes/wsbot#readme"
+}
